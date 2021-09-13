@@ -1,0 +1,37 @@
+{
+  "name": "currency-api",
+  "version": "0.0.0",
+  "description": "Currency API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sachinkalsi@bitbucket.org/sachinkalsi/currency-api.git"
+  },
+  "author": "Kalsi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "~3.5.0",
+    "body-parser": "~1.17.1",
+    "express": "~4.15.2",
+    "forest-express-mongoose": "^1.5.0",
+    "mongoose": "~4.9.6",
+    "node-schedule": "~1.2.1",
+    "request": "~2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "7.4.0"
+  }
+
+
+
+
+
+
+
+
+
+
+}
